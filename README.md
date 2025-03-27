@@ -1,6 +1,8 @@
 ## Hi there 👋
 
 <!--
+This is a student-friendly e-commerce platform that provides essential items like shirts, pants, shoes, bags, and stationary. The website uses Firebase Authentication for secure login and offers affiliate links for easy purchasing.
+
 **Students-Mart/Students-Mart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
