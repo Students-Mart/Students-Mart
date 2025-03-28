@@ -1,4 +1,4 @@
-## Hi there 👋
+##Students-Mart
 
 <!--
 This is a student-friendly e-commerce platform that provides essential items like shirts, pants, shoes, bags, and stationary. The website uses Firebase Authentication for secure login and offers affiliate links for easy purchasing.
